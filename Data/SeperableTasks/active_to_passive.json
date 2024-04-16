@@ -1,4 +1,4 @@
-{
+data = {
     "Dogs chase cats in alleys.": "Cats are chased by dogs.",
     "The chef cooks delicious meals.": "Delicious meals are cooked.",
     "Students solve math problems daily.": "Math problems are solved daily.",
@@ -178,7 +178,7 @@
     "Teachers inspire a love for learning in students.": "A love for learning is inspired in students by teachers.",
     "Musicians collaborate to create timeless music.": "Timeless music is created through collaboration by musicians.",
     "Parents nurture the growth of their children.": "The growth of children is nurtured by parents.",
-    "The chef experiments with molecular gastronomy.": "Molecular gastronomy is experimented with by the chef."  
+    "The chef experiments with molecular gastronomy.": "Molecular gastronomy is experimented with by the chef." , 
     "Students practice grammar exercises.": "Grammar exercises are practiced by students.",
     "The painter creates vibrant artwork.": "Vibrant artwork is created by the painter.",
     "Researchers investigate the effects of pollution.": "Effects of pollution are investigated by researchers.",
@@ -244,7 +244,7 @@
     "Parents encourage children to explore their creativity through art.": "Children to explore their creativity through art are encouraged by parents.",
     "The surgeon performs delicate surgeries to repair delicate organs.": "Delicate surgeries to repair delicate organs are performed by the surgeon.",
     "Scientists conduct research to develop new treatments for diseases.": "Research to develop new treatments for diseases is conducted by scientists.",
-    "The librarian hosts book clubs to discuss popular literature.": "Book clubs to discuss popular literature are hosted by the librarian."
+    "The librarian hosts book clubs to discuss popular literature.": "Book clubs to discuss popular literature are hosted by the librarian.",
     "The artist creates intricate origami sculptures.": "Intricate origami sculptures are created by the artist.",
     "Parents encourage children to explore nature.": "Children to explore nature are encouraged by parents.",
     "The chef prepares a gourmet meal for the guests.": "A gourmet meal for the guests is prepared by the chef."
