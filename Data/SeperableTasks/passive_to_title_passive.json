@@ -1,223 +1,234 @@
-{'Cats are chased by dogs.': 'Cats Are Chased By Dogs.',
-'Delicious meals are cooked.': 'Delicious Meals Are Cooked.',
-'Math problems are solved daily.': 'Math Problems Are Solved Daily.',
-'Colorful murals are painted.': 'Colorful Murals Are Painted.',
-'Efficient machines are designed.': 'Efficient Machines Are Designed.',
-'Intriguing stories are crafted.': 'Intriguing Stories Are Crafted.',
-'Beautiful flowers are planted.': 'Beautiful Flowers Are Planted.',
-'Melodious tunes are composed.': 'Melodious Tunes Are Composed.',
-'Young minds are educated.': 'Young Minds Are Educated.',
-'Groundbreaking research is conducted.': 'Groundbreaking Research Is Conducted.',
-'Broken cars are fixed.': 'Broken Cars Are Fixed.',
-'Various illnesses are treated.': 'Various Illnesses Are Treated.',
-'Children are raised lovingly.': 'Children Are Raised Lovingly.',
-'Intricate statues are sculpted.': 'Intricate Statues Are Sculpted.',
-'Aromatic coffee is brewed.': 'Aromatic Coffee Is Brewed.',
-'Innovative software is developed.': 'Innovative Software Is Developed.',
-'Elegant dresses are sewn.': 'Elegant Dresses Are Sewn.',
-'Rigorous training is undergone for competitions by athletes.': 'Rigorous Training Is Undergone For Competitions By Athletes.',
-'Ripe fruits are harvested.': 'Ripe Fruits Are Harvested.',
-'New planets are discovered.': 'New Planets Are Discovered.',
-'Captivating portraits are drawn by artists.': 'Captivating Portraits Are Drawn By Artists.',
-'Fresh bread is baked daily by the baker.': 'Fresh Bread Is Baked Daily By The Baker.',
-'Bestselling novels are published by writers.': 'Bestselling Novels Are Published By Writers.',
-'Stunning photos are captured by the photographer.': 'Stunning Photos Are Captured By The Photographer.',
-'Diligent studying is done by students for exams.': 'Diligent Studying Is Done By Students For Exams.',
-'Young minds are inspired to learn by teachers.': 'Young Minds Are Inspired To Learn By Teachers.',
-'Sturdy buildings are constructed by builders.': 'Sturdy Buildings Are Constructed By Builders.',
-'Classical music is performed by the pianist.': 'Classical Music Is Performed By The Pianist.',
-'Complex data is analyzed by scientists.': 'Complex Data Is Analyzed By Scientists.',
-'Medication is dispensed by the pharmacist.': 'Medication Is Dispensed By The Pharmacist.',
-'Lush gardens are tended to by gardeners.': 'Lush Gardens Are Tended To By Gardeners.',
-'Efficient bridges are built by engineers.': 'Efficient Bridges Are Built By Engineers.',
-'Broken engines are repaired by the mechanic.': 'Broken Engines Are Repaired By The Mechanic.',
-'Soulful melodies are composed by musicians.': 'Soulful Melodies Are Composed By Musicians.',
-'Children are nurtured lovingly by parents.': 'Children Are Nurtured Lovingly By Parents.',
-'Intricate sculptures are sculpted by artists.': 'Intricate Sculptures Are Sculpted By Artists.',
-'Gourmet dishes are prepared by the chef.': 'Gourmet Dishes Are Prepared By The Chef.',
-'Innovative software is coded by programmers.': 'Innovative Software Is Coded By Programmers.',
-'Various ailments are diagnosed by doctors.': 'Various Ailments Are Diagnosed By Doctors.',
-'International events are competed in by athletes.': 'International Events Are Competed In By Athletes.',
-'Graceful movements are performed by the dancer.': 'Graceful Movements Are Performed By The Dancer.',
-'Books are organized neatly by the librarian.': 'Books Are Organized Neatly By The Librarian.',
-'Important experiments are conducted by researchers.': 'Important Experiments Are Conducted By Researchers.',
-'Designer clothing is altered by the tailor.': 'Designer Clothing Is Altered By The Tailor.',
-'Fertile fields are cultivated by farmers.': 'Fertile Fields Are Cultivated By Farmers.',
-'Delicious beverages are served by the barista.': 'Delicious Beverages Are Served By The Barista.',
-'Compelling narratives are crafted by writers.': 'Compelling Narratives Are Crafted By Writers.',
-'Students are instructed attentively by teachers.': 'Students Are Instructed Attentively By Teachers.',
-'Innovative structures are designed by the architect.': 'Innovative Structures Are Designed By The Architect.',
-'Hit songs are recorded in studios by musicians.': 'Hit Songs Are Recorded In Studios By Musicians.',
-'Groundbreaking research is conducted by the scientist.': 'Groundbreaking Research Is Conducted By The Scientist.',
-'Important values are instilled in children by parents.': 'Important Values Are Instilled In Children By Parents.',
-'Work is exhibited in galleries by artists.': 'Work Is Exhibited In Galleries By Artists.',
-'Ingredients are mixed for pastries by the baker.': 'Ingredients Are Mixed For Pastries By The Baker.',
-'Culinary masterpieces are created in kitchens by chefs.': 'Culinary Masterpieces Are Created In Kitchens By Chefs.',
-'Complex concepts are explained by the teacher.': 'Complex Concepts Are Explained By The Teacher.',
-'Rich characters are developed in novels by writers.': 'Rich Characters Are Developed In Novels By Writers.',
-'The orchestra is led in performances by the conductor.': 'The Orchestra Is Led In Performances By The Conductor.',
-'Natural phenomena are investigated by scientists.': 'Natural Phenomena Are Investigated By Scientists.',
-'Beautiful landscapes are sketched by the artist.': 'Beautiful Landscapes Are Sketched By The Artist.',
-'Children are encouraged to succeed by parents.': 'Children Are Encouraged To Succeed By Parents.',
-'Vehicles are inspected for faults by the mechanic.': 'Vehicles Are Inspected For Faults By The Mechanic.',
-'Trees are pruned to maintain shape by gardeners.': 'Trees Are Pruned To Maintain Shape By Gardeners.',
-'Classical pieces are practiced by the pianist.': 'Classical Pieces Are Practiced By The Pianist.',
-'Rigorous training is undergone for upcoming matches by athletes.': 'Rigorous Training Is Undergone For Upcoming Matches By Athletes.',
-'Software is debugged for errors by programmers.': 'Software Is Debugged For Errors By Programmers.',
-'Medication is administered to patients by the nurse.': 'Medication Is Administered To Patients By The Nurse.',
-'Effects of climate change are studied by researchers.': 'Effects Of Climate Change Are Studied By Researchers.',
-'Assignments and exams are graded by teachers.': 'Assignments And Exams Are Graded By Teachers.',
-'Paintings are exhibited in galleries by the artist.': 'Paintings Are Exhibited In Galleries By The Artist.',
-'Efficient transportation systems are designed by engineers.': 'Efficient Transportation Systems Are Designed By Engineers.',
-'Rehearsals are done for upcoming concerts by musicians.': 'Rehearsals Are Done For Upcoming Concerts By Musicians.',
-'New recipes are experimented with by the chef.': 'New Recipes Are Experimented With By The Chef.',
-"Children's aspirations are supported by parents.": "Children'S Aspirations Are Supported By Parents.",
-'Manuscripts are edited for publication by writers.': 'Manuscripts Are Edited For Publication By Writers.',
-'Blueprints are drafted for buildings by the architect.': 'Blueprints Are Drafted For Buildings By The Architect.',
-'Behavior of microorganisms is studied by scientists.': 'Behavior Of Microorganisms Is Studied By Scientists.',
-'Choreography is practiced for performances by the dancer.': 'Choreography Is Practiced For Performances By The Dancer.',
-'Crops are harvested during the autumn season by farmers.': 'Crops Are Harvested During The Autumn Season By Farmers.',
-'Worn-out parts in engines are replaced by the mechanic.': 'Worn-Out Parts In Engines Are Replaced By The Mechanic.',
-'Talents are showcased in exhibitions by artists.': 'Talents Are Showcased In Exhibitions By Artists.',
-'Children are enrolled in extracurricular activities by parents.': 'Children Are Enrolled In Extracurricular Activities By Parents.',
-'Ideas for next novels are brainstormed by writers.': 'Ideas For Next Novels Are Brainstormed By Writers.',
-'Findings are published in academic journals by the scientist.': 'Findings Are Published In Academic Journals By The Scientist.',
-'Field trips are organized for students by teachers.': 'Field Trips Are Organized For Students By Teachers.',
-'Skyscrapers are constructed in urban areas by builders.': 'Skyscrapers Are Constructed In Urban Areas By Builders.',
-'New albums are collaborated on together by musicians.': 'New Albums Are Collaborated On Together By Musicians.',
-'Dishes are garnished with fresh herbs by the chef.': 'Dishes Are Garnished With Fresh Herbs By The Chef.',
-'Children are enrolled in music lessons by parents.': 'Children Are Enrolled In Music Lessons By Parents.',
-'Portraits of famous figures are sketched by the artist.': 'Portraits Of Famous Figures Are Sketched By The Artist.',
-'Data collected from experiments is analyzed by researchers.': 'Data Collected From Experiments Is Analyzed By Researchers.',
-'Flat tires on vehicles are repaired by the mechanic.': 'Flat Tires On Vehicles Are Repaired By The Mechanic.',
-'Seeds are planted in fertile soil by gardeners.': 'Seeds Are Planted In Fertile Soil By Gardeners.',
-'Plots for stories are outlined by writers.': 'Plots For Stories Are Outlined By Writers.',
-'Experiments are conducted in the laboratory by the scientist.': 'Experiments Are Conducted In The Laboratory By The Scientist.',
-'Lesson plans for classes are prepared by teachers.': 'Lesson Plans For Classes Are Prepared By Teachers.',
-'Various sports tournaments are competed in by athletes.': 'Various Sports Tournaments Are Competed In By Athletes.',
-'Children are encouraged to pursue their passions by parents.': 'Children Are Encouraged To Pursue Their Passions By Parents.',
-'Bricks are laid to construct walls by builders.': 'Bricks Are Laid To Construct Walls By Builders.',
-'Live concerts are performed for audiences by the musician.': 'Live Concerts Are Performed For Audiences By The Musician.',
-'Captivating stories are penned by writers.': 'Captivating Stories Are Penned By Writers.',
-'Intricate designs are sketched by the artist.': 'Intricate Designs Are Sketched By The Artist.',
-'Children are guided through life by parents.': 'Children Are Guided Through Life By Parents.',
-'Delicious recipes are created by the chef.': 'Delicious Recipes Are Created By The Chef.',
-'The depths of space are explored by scientists.': 'The Depths Of Space Are Explored By Scientists.',
-'Beautiful melodies are composed by musicians.': 'Beautiful Melodies Are Composed By Musicians.',
-'Knowledge is imparted to students by teachers.': 'Knowledge Is Imparted To Students By Teachers.',
-'Blooming flowers are tended to by the gardener.': 'Blooming Flowers Are Tended To By The Gardener.',
-'Innovative solutions are developed by engineers.': 'Innovative Solutions Are Developed By Engineers.',
-"Patients' ailments are diagnosed by the doctor.": "Patients' Ailments Are Diagnosed By The Doctor.",
-'Emotions are expressed through paintings by artists.': 'Emotions Are Expressed Through Paintings By Artists.',
-'Values are instilled in children by parents.': 'Values Are Instilled In Children By Parents.',
-'Fresh pastries are prepared by the baker.': 'Fresh Pastries Are Prepared By The Baker.',
-'The mysteries of nature are investigated by researchers.': 'The Mysteries Of Nature Are Investigated By Researchers.',
-'Broken machinery is fixed by the mechanic.': 'Broken Machinery Is Fixed By The Mechanic.',
-'Students are inspired to achieve greatness by teachers.': 'Students Are Inspired To Achieve Greatness By Teachers.',
-'Enchanting melodies are performed by musicians.': 'Enchanting Melodies Are Performed By Musicians.',
-'Gourmet cuisine is cooked by the chef.': 'Gourmet Cuisine Is Cooked By The Chef.',
-'Children are nurtured with love by parents.': 'Children Are Nurtured With Love By Parents.',
-'Stunning artwork is exhibited by the artist.': 'Stunning Artwork Is Exhibited By The Artist.',
-'Conclusions are drawn from analyzing data by scientists.': 'Conclusions Are Drawn From Analyzing Data By Scientists.',
-'Innovative technology is designed by engineers.': 'Innovative Technology Is Designed By Engineers.',
-'Students are educated on various subjects by teachers.': 'Students Are Educated On Various Subjects By Teachers.',
-"Children's dreams are supported by parents.": "Children'S Dreams Are Supported By Parents.",
-'Live concerts are performed by the musician.': 'Live Concerts Are Performed By The Musician.',
-'Experiments are conducted in laboratories by researchers.': 'Experiments Are Conducted In Laboratories By Researchers.',
-'Trees are planted to beautify landscapes by gardeners.': 'Trees Are Planted To Beautify Landscapes By Gardeners.',
-'New flavors are experimented with by the chef.': 'New Flavors Are Experimented With By The Chef.',
-'Demanding sports events are competed in by athletes.': 'Demanding Sports Events Are Competed In By Athletes.',
-'Medication is prescribed for patients by the doctor.': 'Medication Is Prescribed For Patients By The Doctor.',
-'Worlds are created with imagination by writers.': 'Worlds Are Created With Imagination By Writers.',
-"Sacrifices are made for children's future by parents.": "Sacrifices Are Made For Children'S Future By Parents.",
-'Murals are painted on city walls by the artist.': 'Murals Are Painted On City Walls By The Artist.',
-'New breakthroughs are discovered by scientists.': 'New Breakthroughs Are Discovered By Scientists.',
-'Students are inspired to reach their potential by teachers.': 'Students Are Inspired To Reach Their Potential By Teachers.',
-'Melodies that touch hearts are composed by musicians.': 'Melodies That Touch Hearts Are Composed By Musicians.',
-'Children are encouraged to explore the world by parents.': 'Children Are Encouraged To Explore The World By Parents.',
-'Dishes are prepared with precision by the chef.': 'Dishes Are Prepared With Precision By The Chef.',
-'Structures that withstand time are built by engineers.': 'Structures That Withstand Time Are Built By Engineers.',
-'Patterns are found from analyzing data by researchers.': 'Patterns Are Found From Analyzing Data By Researchers.',
-'Characters with depth and emotion are created by writers.': 'Characters With Depth And Emotion Are Created By Writers.',
-"Children's talents are nurtured by parents.": "Children'S Talents Are Nurtured By Parents.",
-'Statues are sculpted from marble by the artist.': 'Statues Are Sculpted From Marble By The Artist.',
-'Behavior of animals is studied by scientists.': 'Behavior Of Animals Is Studied By Scientists.',
-'Students are guided towards success by teachers.': 'Students Are Guided Towards Success By Teachers.',
-'Concerts are performed in grand venues by musicians.': 'Concerts Are Performed In Grand Venues By Musicians.',
-'The value of honesty is taught to children by parents.': 'The Value Of Honesty Is Taught To Children By Parents.',
-'Fusion cuisine is experimented with by the chef.': 'Fusion Cuisine Is Experimented With By The Chef.',
-'Complex problems are solved through innovation by engineers.': 'Complex Problems Are Solved Through Innovation By Engineers.',
-'New frontiers in science are explored by researchers.': 'New Frontiers In Science Are Explored By Researchers.',
-'Readers are captivated with gripping stories by writers.': 'Readers Are Captivated With Gripping Stories By Writers.',
-'Support is provided during difficult times by parents.': 'Support Is Provided During Difficult Times By Parents.',
-'Origins of the universe are investigated by scientists.': 'Origins Of The Universe Are Investigated By Scientists.',
-'A love for learning is inspired in students by teachers.': 'A Love For Learning Is Inspired In Students By Teachers.',
-'Timeless music is created through collaboration by musicians.': 'Timeless Music Is Created Through Collaboration By Musicians.',
-'The growth of children is nurtured by parents.': 'The Growth Of Children Is Nurtured By Parents.',
-'Molecular gastronomy is experimented with by the chef.': 'Molecular Gastronomy Is Experimented With By The Chef.',
-'Structures that withstand earthquakes are designed by engineers.': 'Structures That Withstand Earthquakes Are Designed By Engineers.',
-'Impact of technology on society is analyzed by researchers.': 'Impact Of Technology On Society Is Analyzed By Researchers.',
-'Intricate plots are woven in novels by writers.': 'Intricate Plots Are Woven In Novels By Writers.',
-'Landscapes are sketched in plein air by the artist.': 'Landscapes Are Sketched In Plein Air By The Artist.',
-'Depths of the ocean are explored by scientists.': 'Depths Of The Ocean Are Explored By Scientists.',
-'Students are motivated to excel academically by teachers.': 'Students Are Motivated To Excel Academically By Teachers.',
-'Concerts are performed for charity events by musicians.': 'Concerts Are Performed For Charity Events By Musicians.',
-'Extracurricular activities are supported by parents.': 'Extracurricular Activities Are Supported By Parents.',
-'Grammar exercises are practiced by students.': 'Grammar Exercises Are Practiced By Students.',
-'Vibrant artwork is created by the painter.': 'Vibrant Artwork Is Created By The Painter.',
-'Effects of pollution are investigated by researchers.': 'Effects Of Pollution Are Investigated By Researchers.',
-'Surgery is performed on patients by the doctor.': 'Surgery Is Performed On Patients By The Doctor.',
-'Bedtime stories are read to children by parents.': 'Bedtime Stories Are Read To Children By Parents.',
-'Clay is molded into sculptures by the sculptor.': 'Clay Is Molded Into Sculptures By The Sculptor.',
-'Code for software applications is written by programmers.': 'Code For Software Applications Is Written By Programmers.',
-"The company's new strategy is announced by the CEO.": "The Company'S New Strategy Is Announced By The Ceo.",
-'Homework is assigned to students by teachers.': 'Homework Is Assigned To Students By Teachers.',
-'A new book is published by the author.': 'A New Book Is Published By The Author.',
-'Crops are grown in fertile soil by farmers.': 'Crops Are Grown In Fertile Soil By Farmers.',
-'Graceful ballet routines are performed by the dancer.': 'Graceful Ballet Routines Are Performed By The Dancer.',
-'Behavior of insects is studied by scientists.': 'Behavior Of Insects Is Studied By Scientists.',
-'A delicious meal is prepared by the chef.': 'A Delicious Meal Is Prepared By The Chef.',
-'Children are taught to ride bicycles by parents.': 'Children Are Taught To Ride Bicycles By Parents.',
-'A gold medal in the Olympics is won by the athlete.': 'A Gold Medal In The Olympics Is Won By The Athlete.',
-'Bridges over rivers are constructed by engineers.': 'Bridges Over Rivers Are Constructed By Engineers.',
-'A beautiful melody on the piano is played by the musician.': 'A Beautiful Melody On The Piano Is Played By The Musician.',
-'Assignments are completed before the deadline by students.': 'Assignments Are Completed Before The Deadline By Students.',
-'A portrait of a famous celebrity is sketched by the artist.': 'A Portrait Of A Famous Celebrity Is Sketched By The Artist.',
-'Data from scientific experiments is analyzed by researchers.': 'Data From Scientific Experiments Is Analyzed By Researchers.',
-'Fresh bread is baked in the morning by the baker.': 'Fresh Bread Is Baked In The Morning By The Baker.',
-'Seeds are planted in the springtime by gardeners.': 'Seeds Are Planted In The Springtime By Gardeners.',
-'A house is built from the ground up by construction workers.': 'A House Is Built From The Ground Up By Construction Workers.',
-'The engine of a car is repaired by the mechanic.': 'The Engine Of A Car Is Repaired By The Mechanic.',
-'A flawless performance is delivered by the dancer.': 'A Flawless Performance Is Delivered By The Dancer.',
-'A best-selling novel is written by the author.': 'A Best-Selling Novel Is Written By The Author.',
-'A delicious meal is cooked by the chef.': 'A Delicious Meal Is Cooked By The Chef.',
-'A masterpiece is created by the artist.': 'A Masterpiece Is Created By The Artist.',
-'The piano is played by the musician.': 'The Piano Is Played By The Musician.',
-'A scientific breakthrough is made by the researcher.': 'A Scientific Breakthrough Is Made By The Researcher.',
-'An Olympic record is broken by the athlete.': 'An Olympic Record Is Broken By The Athlete.',
-'A garden is tended by the gardener.': 'A Garden Is Tended By The Gardener.',
-'A vaccine is developed by the scientist.': 'A Vaccine Is Developed By The Scientist.',
-'A breathtaking performance is given by the musician.': 'A Breathtaking Performance Is Given By The Musician.',
-'A story is written by the author.': 'A Story Is Written By The Author.',
-'A painting is created by the artist.': 'A Painting Is Created By The Artist.',
-'A house is built by the construction workers.': 'A House Is Built By The Construction Workers.',
-'An engine is repaired by the mechanic.': 'An Engine Is Repaired By The Mechanic.',
-'A ballet is performed by the dancer.': 'A Ballet Is Performed By The Dancer.',
-'A novel is written by the author.': 'A Novel Is Written By The Author.',
-'A meal is prepared by the chef.': 'A Meal Is Prepared By The Chef.',
-'A melody is composed by the musician.': 'A Melody Is Composed By The Musician.',
-'A research paper is published by the scientist.': 'A Research Paper Is Published By The Scientist.',
-'An athlete wins a gold medal in the Olympics.': 'An Athlete Wins A Gold Medal In The Olympics.',
-'A garden is maintained by the gardener.': 'A Garden Is Maintained By The Gardener.',
-'A scientist develops a vaccine.': 'A Scientist Develops A Vaccine.',
-'A musician gives a breathtaking performance.': 'A Musician Gives A Breathtaking Performance.',
-'An author writes a story.': 'An Author Writes A Story.',
-'An artist creates a painting.': 'An Artist Creates A Painting.',
-'Construction workers build a house.': 'Construction Workers Build A House.',
-'A mechanic repairs an engine.': 'A Mechanic Repairs An Engine.',
-'A dancer performs a ballet.': 'A Dancer Performs A Ballet.',
-'An author writes a best-selling novel.': 'An Author Writes A Best-Selling Novel.',
-'A chef prepares a delicious meal.': 'A Chef Prepares A Delicious Meal.',
-'A musician composes a melody.': 'A Musician Composes A Melody.',
-'A scientist makes a scientific breakthrough.': 'A Scientist Makes A Scientific Breakthrough.',
-'A gardener tends a garden.': 'A Gardener Tends A Garden.'}
+{"Cats are chased by dogs.": "Cats Are Chased By Dogs."
+ "Delicious meals are cooked.": "Delicious Meals Are Cooked."
+ "Math problems are solved daily.": "Math Problems Are Solved Daily."
+ "Colorful murals are painted.": "Colorful Murals Are Painted."
+ "Efficient machines are designed.": "Efficient Machines Are Designed."
+ "Intriguing stories are crafted.": "Intriguing Stories Are Crafted."
+ "Beautiful flowers are planted.": "Beautiful Flowers Are Planted."
+ "Melodious tunes are composed.": "Melodious Tunes Are Composed."
+ "Young minds are educated.": "Young Minds Are Educated."
+ "Groundbreaking research is conducted.": "Groundbreaking Research Is Conducted."
+ "Broken cars are fixed.": "Broken Cars Are Fixed."
+ "Various illnesses are treated.": "Various Illnesses Are Treated."
+ "Children are raised lovingly.": "Children Are Raised Lovingly."
+ "Intricate statues are sculpted.": "Intricate Statues Are Sculpted."
+ "Aromatic coffee is brewed.": "Aromatic Coffee Is Brewed."
+ "Innovative software is developed.": "Innovative Software Is Developed."
+ "Elegant dresses are sewn.": "Elegant Dresses Are Sewn."
+ "Rigorous training is undergone for competitions by athletes.": "Rigorous Training Is Undergone For Competitions By Athletes."
+ "Ripe fruits are harvested.": "Ripe Fruits Are Harvested."
+ "New planets are discovered.": "New Planets Are Discovered."
+ "Captivating portraits are drawn by artists.": "Captivating Portraits Are Drawn By Artists."
+ "Fresh bread is baked daily by the baker.": "Fresh Bread Is Baked Daily By The Baker."
+ "Bestselling novels are published by writers.": "Bestselling Novels Are Published By Writers."
+ "Stunning photos are captured by the photographer.": "Stunning Photos Are Captured By The Photographer."
+ "Diligent studying is done by students for exams.": "Diligent Studying Is Done By Students For Exams."
+ "Young minds are inspired to learn by teachers.": "Young Minds Are Inspired To Learn By Teachers."
+ "Sturdy buildings are constructed by builders.": "Sturdy Buildings Are Constructed By Builders."
+ "Classical music is performed by the pianist.": "Classical Music Is Performed By The Pianist."
+ "Complex data is analyzed by scientists.": "Complex Data Is Analyzed By Scientists."
+ "Medication is dispensed by the pharmacist.": "Medication Is Dispensed By The Pharmacist."
+ "Lush gardens are tended to by gardeners.": "Lush Gardens Are Tended To By Gardeners."
+ "Efficient bridges are built by engineers.": "Efficient Bridges Are Built By Engineers."
+ "Broken engines are repaired by the mechanic.": "Broken Engines Are Repaired By The Mechanic."
+ "Soulful melodies are composed by musicians.": "Soulful Melodies Are Composed By Musicians."
+ "Children are nurtured lovingly by parents.": "Children Are Nurtured Lovingly By Parents."
+ "Intricate sculptures are sculpted by artists.": "Intricate Sculptures Are Sculpted By Artists."
+ "Gourmet dishes are prepared by the chef.": "Gourmet Dishes Are Prepared By The Chef."
+ "Innovative software is coded by programmers.": "Innovative Software Is Coded By Programmers."
+ "Various ailments are diagnosed by doctors.": "Various Ailments Are Diagnosed By Doctors."
+ "International events are competed in by athletes.": "International Events Are Competed In By Athletes."
+ "Graceful movements are performed by the dancer.": "Graceful Movements Are Performed By The Dancer."
+ "Books are organized neatly by the librarian.": "Books Are Organized Neatly By The Librarian."
+ "Important experiments are conducted by researchers.": "Important Experiments Are Conducted By Researchers."
+ "Designer clothing is altered by the tailor.": "Designer Clothing Is Altered By The Tailor."
+ "Fertile fields are cultivated by farmers.": "Fertile Fields Are Cultivated By Farmers."
+ "Delicious beverages are served by the barista.": "Delicious Beverages Are Served By The Barista."
+ "Compelling narratives are crafted by writers.": "Compelling Narratives Are Crafted By Writers."
+ "Students are instructed attentively by teachers.": "Students Are Instructed Attentively By Teachers."
+ "Innovative structures are designed by the architect.": "Innovative Structures Are Designed By The Architect."
+ "Hit songs are recorded in studios by musicians.": "Hit Songs Are Recorded In Studios By Musicians."
+ "Groundbreaking research is conducted by the scientist.": "Groundbreaking Research Is Conducted By The Scientist."
+ "Important values are instilled in children by parents.": "Important Values Are Instilled In Children By Parents."
+ "Work is exhibited in galleries by artists.": "Work Is Exhibited In Galleries By Artists."
+ "Ingredients are mixed for pastries by the baker.": "Ingredients Are Mixed For Pastries By The Baker."
+ "Culinary masterpieces are created in kitchens by chefs.": "Culinary Masterpieces Are Created In Kitchens By Chefs."
+ "Complex concepts are explained by the teacher.": "Complex Concepts Are Explained By The Teacher."
+ "Rich characters are developed in novels by writers.": "Rich Characters Are Developed In Novels By Writers."
+ "The orchestra is led in performances by the conductor.": "The Orchestra Is Led In Performances By The Conductor."
+ "Natural phenomena are investigated by scientists.": "Natural Phenomena Are Investigated By Scientists."
+ "Beautiful landscapes are sketched by the artist.": "Beautiful Landscapes Are Sketched By The Artist."
+ "Children are encouraged to succeed by parents.": "Children Are Encouraged To Succeed By Parents."
+ "Vehicles are inspected for faults by the mechanic.": "Vehicles Are Inspected For Faults By The Mechanic."
+ "Trees are pruned to maintain shape by gardeners.": "Trees Are Pruned To Maintain Shape By Gardeners."
+ "Classical pieces are practiced by the pianist.": "Classical Pieces Are Practiced By The Pianist."
+ "Rigorous training is undergone for upcoming matches by athletes.": "Rigorous Training Is Undergone For Upcoming Matches By Athletes."
+ "Software is debugged for errors by programmers.": "Software Is Debugged For Errors By Programmers."
+ "Medication is administered to patients by the nurse.": "Medication Is Administered To Patients By The Nurse."
+ "Effects of climate change are studied by researchers.": "Effects Of Climate Change Are Studied By Researchers."
+ "Assignments and exams are graded by teachers.": "Assignments And Exams Are Graded By Teachers."
+ "Paintings are exhibited in galleries by the artist.": "Paintings Are Exhibited In Galleries By The Artist."
+ "Efficient transportation systems are designed by engineers.": "Efficient Transportation Systems Are Designed By Engineers."
+ "Rehearsals are done for upcoming concerts by musicians.": "Rehearsals Are Done For Upcoming Concerts By Musicians."
+ "New recipes are experimented with by the chef.": "New Recipes Are Experimented With By The Chef."
+ "Children's aspirations are supported by parents.": "Children'S Aspirations Are Supported By Parents."
+ "Manuscripts are edited for publication by writers.": "Manuscripts Are Edited For Publication By Writers."
+ "Blueprints are drafted for buildings by the architect.": "Blueprints Are Drafted For Buildings By The Architect."
+ "Behavior of microorganisms is studied by scientists.": "Behavior Of Microorganisms Is Studied By Scientists."
+ "Choreography is practiced for performances by the dancer.": "Choreography Is Practiced For Performances By The Dancer."
+ "Crops are harvested during the autumn season by farmers.": "Crops Are Harvested During The Autumn Season By Farmers."
+ "Worn-out parts in engines are replaced by the mechanic.": "Worn-Out Parts In Engines Are Replaced By The Mechanic."
+ "Talents are showcased in exhibitions by artists.": "Talents Are Showcased In Exhibitions By Artists."
+ "Children are enrolled in extracurricular activities by parents.": "Children Are Enrolled In Extracurricular Activities By Parents."
+ "Ideas for next novels are brainstormed by writers.": "Ideas For Next Novels Are Brainstormed By Writers."
+ "Findings are published in academic journals by the scientist.": "Findings Are Published In Academic Journals By The Scientist."
+ "Field trips are organized for students by teachers.": "Field Trips Are Organized For Students By Teachers."
+ "Skyscrapers are constructed in urban areas by builders.": "Skyscrapers Are Constructed In Urban Areas By Builders."
+ "New albums are collaborated on together by musicians.": "New Albums Are Collaborated On Together By Musicians."
+ "Dishes are garnished with fresh herbs by the chef.": "Dishes Are Garnished With Fresh Herbs By The Chef."
+ "Children are enrolled in music lessons by parents.": "Children Are Enrolled In Music Lessons By Parents."
+ "Portraits of famous figures are sketched by the artist.": "Portraits Of Famous Figures Are Sketched By The Artist."
+ "Data collected from experiments is analyzed by researchers.": "Data Collected From Experiments Is Analyzed By Researchers."
+ "Flat tires on vehicles are repaired by the mechanic.": "Flat Tires On Vehicles Are Repaired By The Mechanic."
+ "Seeds are planted in fertile soil by gardeners.": "Seeds Are Planted In Fertile Soil By Gardeners."
+ "Plots for stories are outlined by writers.": "Plots For Stories Are Outlined By Writers."
+ "Experiments are conducted in the laboratory by the scientist.": "Experiments Are Conducted In The Laboratory By The Scientist."
+ "Lesson plans for classes are prepared by teachers.": "Lesson Plans For Classes Are Prepared By Teachers."
+ "Various sports tournaments are competed in by athletes.": "Various Sports Tournaments Are Competed In By Athletes."
+ "Children are encouraged to pursue their passions by parents.": "Children Are Encouraged To Pursue Their Passions By Parents."
+ "Bricks are laid to construct walls by builders.": "Bricks Are Laid To Construct Walls By Builders."
+ "Live concerts are performed for audiences by the musician.": "Live Concerts Are Performed For Audiences By The Musician."
+ "Captivating stories are penned by writers.": "Captivating Stories Are Penned By Writers."
+ "Intricate designs are sketched by the artist.": "Intricate Designs Are Sketched By The Artist."
+ "Children are guided through life by parents.": "Children Are Guided Through Life By Parents."
+ "Delicious recipes are created by the chef.": "Delicious Recipes Are Created By The Chef."
+ "The depths of space are explored by scientists.": "The Depths Of Space Are Explored By Scientists."
+ "Beautiful melodies are composed by musicians.": "Beautiful Melodies Are Composed By Musicians."
+ "Knowledge is imparted to students by teachers.": "Knowledge Is Imparted To Students By Teachers."
+ "Blooming flowers are tended to by the gardener.": "Blooming Flowers Are Tended To By The Gardener."
+ "Innovative solutions are developed by engineers.": "Innovative Solutions Are Developed By Engineers."
+ "Patients' ailments are diagnosed by the doctor.": "Patients' Ailments Are Diagnosed By The Doctor."
+ "Emotions are expressed through paintings by artists.": "Emotions Are Expressed Through Paintings By Artists."
+ "Values are instilled in children by parents.": "Values Are Instilled In Children By Parents."
+ "Fresh pastries are prepared by the baker.": "Fresh Pastries Are Prepared By The Baker."
+ "The mysteries of nature are investigated by researchers.": "The Mysteries Of Nature Are Investigated By Researchers."
+ "Broken machinery is fixed by the mechanic.": "Broken Machinery Is Fixed By The Mechanic."
+ "Students are inspired to achieve greatness by teachers.": "Students Are Inspired To Achieve Greatness By Teachers."
+ "Enchanting melodies are performed by musicians.": "Enchanting Melodies Are Performed By Musicians."
+ "Gourmet cuisine is cooked by the chef.": "Gourmet Cuisine Is Cooked By The Chef."
+ "Children are nurtured with love by parents.": "Children Are Nurtured With Love By Parents."
+ "Stunning artwork is exhibited by the artist.": "Stunning Artwork Is Exhibited By The Artist."
+ "Conclusions are drawn from analyzing data by scientists.": "Conclusions Are Drawn From Analyzing Data By Scientists."
+ "Innovative technology is designed by engineers.": "Innovative Technology Is Designed By Engineers."
+ "Students are educated on various subjects by teachers.": "Students Are Educated On Various Subjects By Teachers."
+ "Children's dreams are supported by parents.": "Children'S Dreams Are Supported By Parents."
+ "Live concerts are performed by the musician.": "Live Concerts Are Performed By The Musician."
+ "Experiments are conducted in laboratories by researchers.": "Experiments Are Conducted In Laboratories By Researchers."
+ "Trees are planted to beautify landscapes by gardeners.": "Trees Are Planted To Beautify Landscapes By Gardeners."
+ "New flavors are experimented with by the chef.": "New Flavors Are Experimented With By The Chef."
+ "Demanding sports events are competed in by athletes.": "Demanding Sports Events Are Competed In By Athletes."
+ "Medication is prescribed for patients by the doctor.": "Medication Is Prescribed For Patients By The Doctor."
+ "Worlds are created with imagination by writers.": "Worlds Are Created With Imagination By Writers."
+ "Sacrifices are made for children's future by parents.": "Sacrifices Are Made For Children'S Future By Parents."
+ "Murals are painted on city walls by the artist.": "Murals Are Painted On City Walls By The Artist."
+ "New breakthroughs are discovered by scientists.": "New Breakthroughs Are Discovered By Scientists."
+ "Students are inspired to reach their potential by teachers.": "Students Are Inspired To Reach Their Potential By Teachers."
+ "Melodies that touch hearts are composed by musicians.": "Melodies That Touch Hearts Are Composed By Musicians."
+ "Children are encouraged to explore the world by parents.": "Children Are Encouraged To Explore The World By Parents."
+ "Dishes are prepared with precision by the chef.": "Dishes Are Prepared With Precision By The Chef."
+ "Structures that withstand time are built by engineers.": "Structures That Withstand Time Are Built By Engineers."
+ "Patterns are found from analyzing data by researchers.": "Patterns Are Found From Analyzing Data By Researchers."
+ "Characters with depth and emotion are created by writers.": "Characters With Depth And Emotion Are Created By Writers."
+ "Children's talents are nurtured by parents.": "Children'S Talents Are Nurtured By Parents."
+ "Statues are sculpted from marble by the artist.": "Statues Are Sculpted From Marble By The Artist."
+ "Behavior of animals is studied by scientists.": "Behavior Of Animals Is Studied By Scientists."
+ "Students are guided towards success by teachers.": "Students Are Guided Towards Success By Teachers."
+ "Concerts are performed in grand venues by musicians.": "Concerts Are Performed In Grand Venues By Musicians."
+ "The value of honesty is taught to children by parents.": "The Value Of Honesty Is Taught To Children By Parents."
+ "Fusion cuisine is experimented with by the chef.": "Fusion Cuisine Is Experimented With By The Chef."
+ "Complex problems are solved through innovation by engineers.": "Complex Problems Are Solved Through Innovation By Engineers."
+ "New frontiers in science are explored by researchers.": "New Frontiers In Science Are Explored By Researchers."
+ "Readers are captivated with gripping stories by writers.": "Readers Are Captivated With Gripping Stories By Writers."
+ "Support is provided during difficult times by parents.": "Support Is Provided During Difficult Times By Parents."
+ "Origins of the universe are investigated by scientists.": "Origins Of The Universe Are Investigated By Scientists."
+ "A love for learning is inspired in students by teachers.": "A Love For Learning Is Inspired In Students By Teachers."
+ "Timeless music is created through collaboration by musicians.": "Timeless Music Is Created Through Collaboration By Musicians."
+ "The growth of children is nurtured by parents.": "The Growth Of Children Is Nurtured By Parents."
+ "Molecular gastronomy is experimented with by the chef.": "Molecular Gastronomy Is Experimented With By The Chef."
+ "Structures that withstand earthquakes are designed by engineers.": "Structures That Withstand Earthquakes Are Designed By Engineers."
+ "Impact of technology on society is analyzed by researchers.": "Impact Of Technology On Society Is Analyzed By Researchers."
+ "Intricate plots are woven in novels by writers.": "Intricate Plots Are Woven In Novels By Writers."
+ "Landscapes are sketched in plein air by the artist.": "Landscapes Are Sketched In Plein Air By The Artist."
+ "Depths of the ocean are explored by scientists.": "Depths Of The Ocean Are Explored By Scientists."
+ "Students are motivated to excel academically by teachers.": "Students Are Motivated To Excel Academically By Teachers."
+ "Concerts are performed for charity events by musicians.": "Concerts Are Performed For Charity Events By Musicians."
+ "Extracurricular activities are supported by parents.": "Extracurricular Activities Are Supported By Parents."
+ "Grammar exercises are practiced by students.": "Grammar Exercises Are Practiced By Students."
+ "Vibrant artwork is created by the painter.": "Vibrant Artwork Is Created By The Painter."
+ "Effects of pollution are investigated by researchers.": "Effects Of Pollution Are Investigated By Researchers."
+ "Surgery is performed on patients by the doctor.": "Surgery Is Performed On Patients By The Doctor."
+ "Bedtime stories are read to children by parents.": "Bedtime Stories Are Read To Children By Parents."
+ "Clay is molded into sculptures by the sculptor.": "Clay Is Molded Into Sculptures By The Sculptor."
+ "Code for software applications is written by programmers.": "Code For Software Applications Is Written By Programmers."
+ "The company's new strategy is announced by the CEO.": "The Company'S New Strategy Is Announced By The Ceo."
+ "Homework is assigned to students by teachers.": "Homework Is Assigned To Students By Teachers."
+ "A new book is published by the author.": "A New Book Is Published By The Author."
+ "Crops are grown in fertile soil by farmers.": "Crops Are Grown In Fertile Soil By Farmers."
+ "Graceful ballet routines are performed by the dancer.": "Graceful Ballet Routines Are Performed By The Dancer."
+ "Behavior of insects is studied by scientists.": "Behavior Of Insects Is Studied By Scientists."
+ "A delicious meal is prepared by the chef.": "A Delicious Meal Is Prepared By The Chef."
+ "Children are taught to ride bicycles by parents.": "Children Are Taught To Ride Bicycles By Parents."
+ "A gold medal in the Olympics is won by the athlete.": "A Gold Medal In The Olympics Is Won By The Athlete."
+ "Bridges over rivers are constructed by engineers.": "Bridges Over Rivers Are Constructed By Engineers."
+ "A beautiful melody on the piano is played by the musician.": "A Beautiful Melody On The Piano Is Played By The Musician."
+ "Assignments are completed before the deadline by students.": "Assignments Are Completed Before The Deadline By Students."
+ "A portrait of a famous celebrity is sketched by the artist.": "A Portrait Of A Famous Celebrity Is Sketched By The Artist."
+ "Data from scientific experiments is analyzed by researchers.": "Data From Scientific Experiments Is Analyzed By Researchers."
+ "Fresh bread is baked in the bakery by the baker.": "Fresh Bread Is Baked In The Bakery By The Baker."
+ "Children are taken to the park on weekends by parents.": "Children Are Taken To The Park On Weekends By Parents."
+ "A dramatic monologue on stage is performed by the actor.": "A Dramatic Monologue On Stage Is Performed By The Actor."
+ "A new species of plant is discovered by scientists.": "A New Species Of Plant Is Discovered By Scientists."
+ "Difficult concepts are explained to students by the teacher.": "Difficult Concepts Are Explained To Students By The Teacher."
+ "School lunches are packed for children by parents.": "School Lunches Are Packed For Children By Parents."
+ "A blazing fire is extinguished by the firefighter.": "A Blazing Fire Is Extinguished By The Firefighter."
+ "Skyscrapers that touch the sky are designed by engineers.": "Skyscrapers That Touch The Sky Are Designed By Engineers."
+ "A hit song in the studio is recorded by the singer.": "A Hit Song In The Studio Is Recorded By The Singer."
+ "Parent-teacher meetings at school are attended by parents.": "Parent-Teacher Meetings At School Are Attended By Parents."
+ "A life-saving operation is performed by the surgeon.": "A Life-Saving Operation Is Performed By The Surgeon."
+ "The depths of the ocean floor are explored by scientists.": "The Depths Of The Ocean Floor Are Explored By Scientists."
+ "Books on the shelves are organized by the librarian.": "Books On The Shelves Are Organized By The Librarian."
+ "Children are taught how to swim in the pool by parents.": "Children Are Taught How To Swim In The Pool By Parents."
+ "A blockbuster movie is starred in by the actress.": "A Blockbuster Movie Is Starred In By The Actress."
+ "Renewable energy technologies are developed by engineers.": "Renewable Energy Technologies Are Developed By Engineers."
+ "A concert for adoring fans is performed by the singer.": "A Concert For Adoring Fans Is Performed By The Singer."
+ "Homework assignments are helped with by parents.": "Homework Assignments Are Helped With By Parents."
+ "Lives in the operating room are saved by the surgeon.": "Lives In The Operating Room Are Saved By The Surgeon."
+ "Effects of climate change on ecosystems are studied by scientists.": "Effects Of Climate Change On Ecosystems Are Studied By Scientists."
+ "Books to library patrons are recommended by the librarian.": "Books To Library Patrons Are Recommended By The Librarian."
+ "Children are enrolled in after-school activities by parents.": "Children Are Enrolled In After-School Activities By Parents."
+ "A historical figure in a movie is portrayed by the actress.": "A Historical Figure In A Movie Is Portrayed By The Actress."
+ "Durability of new materials is tested by engineers.": "Durability Of New Materials Is Tested By Engineers."
+ "Heartfelt lyrics for a new song are written by the singer.": "Heartfelt Lyrics For A New Song Are Written By The Singer."
+ "Lunches for children to take to school are packed by parents.": "Lunches For Children To Take To School Are Packed By Parents."
+ "Intricate surgeries with precision are performed by the surgeon.": "Intricate Surgeries With Precision Are Performed By The Surgeon."
+ "Experiments to test scientific hypotheses are conducted by scientists.": "Experiments To Test Scientific Hypotheses Are Conducted By Scientists."
+ "Storytelling sessions for children are organized by the librarian.": "Storytelling Sessions For Children Are Organized By The Librarian."
+ "Children in music lessons to learn instruments are enrolled by parents.": "Children In Music Lessons To Learn Instruments Are Enrolled By Parents."
+ "Her lines for an upcoming stage play are rehearsed by the actress.": "Her Lines For An Upcoming Stage Play Are Rehearsed By The Actress."
+ "New solutions to address environmental challenges are innovated by engineers.": "New Solutions To Address Environmental Challenges Are Innovated By Engineers."
+ "Concerts in cities around the world are performed by the singer.": "Concerts In Cities Around The World Are Performed By The Singer."
+ "Children to participate in sports activities are encouraged by parents.": "Children To Participate In Sports Activities Are Encouraged By Parents."
+ "On patients to remove tumors are operated by the surgeon.": "On Patients To Remove Tumors Are Operated By The Surgeon."
+ "Data to understand patterns in nature is analyzed by scientists.": "Data To Understand Patterns In Nature Is Analyzed By Scientists."
+ "Students find resources for their research are helped with by the librarian.": "Students Find Resources For Their Research Are Helped With By The Librarian."
+ "Children to cook by involving them in meal preparation are taught by parents.": "Children To Cook By Involving Them In Meal Preparation Are Taught By Parents."
+ "In a television series that captures viewers' hearts is starred in by the actress.": "In A Television Series That Captures Viewers' Hearts Is Starred In By The Actress."
+ "Innovative transportation systems to improve cities are designed by engineers.": "Innovative Transportation Systems To Improve Cities Are Designed By Engineers."
+ "An album that tops the charts worldwide is recorded by the singer.": "An Album That Tops The Charts Worldwide Is Recorded By The Singer."
+ "Children to explore their creativity through art are encouraged by parents.": "Children To Explore Their Creativity Through Art Are Encouraged By Parents."
+ "Delicate surgeries to repair delicate organs are performed by the surgeon.": "Delicate Surgeries To Repair Delicate Organs Are Performed By The Surgeon."
+ "Research to develop new treatments for diseases is conducted by scientists.": "Research To Develop New Treatments For Diseases Is Conducted By Scientists."
+ "Book clubs to discuss popular literature are hosted by the librarian.": "Book Clubs To Discuss Popular Literature Are Hosted By The Librarian."
+ "Intricate origami sculptures are created by the artist.": "Intricate Origami Sculptures Are Created By The Artist."
+ "Children to explore nature are encouraged by parents.": "Children To Explore Nature Are Encouraged By Parents."
+ "A gourmet meal for the guests is prepared by the chef.": "A Gourmet Meal For The Guests Is Prepared By The Chef."}
