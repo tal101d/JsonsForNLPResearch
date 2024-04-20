@@ -4,7 +4,6 @@
   "for i in range(5):\n    print(i)": "for (int i = 0; i < 5; i++) {\n    System.out.println(i);\n}",
   "def add(a, b):\n    return a + b\nprint(add(3, 4))": "public static int add(int a, int b) {\n    return a + b;\n}\nSystem.out.println(add(3, 4));",
   "if x > 0:\n    print('Positive')\nelif x < 0:\n    print('Negative')\nelse:\n    print('Zero')": "if (x > 0) {\n    System.out.println(\"Positive\");\n} else if (x < 0) {\n    System.out.println(\"Negative\");\n} else {\n    System.out.println(\"Zero\");\n}"
-
   "print('Python is fun!')": "System.out.println(\"Java is fun!\");",
   "x = 10\ny = 20\nprint(x + y)": "int x = 10;\nint y = 20;\nSystem.out.println(x + y);",
   "for i in range(1, 6):\n    print(i * i)": "for (int i = 1; i <= 5; i++) {\n    System.out.println(i * i);\n}",
